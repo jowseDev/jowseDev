@@ -5,7 +5,7 @@ I'm José Augusto Martins Filho, an intermediate-level programmer with 3 years o
 ### 🚀 About Me
 
 - 🎓 Graduate of the Technical Course in Informatics at Etec and the Systems Development course.
-- 👨‍💻 Intermediate experience with Java, C++, React Native, and Delphi.
+- 👨‍💻 Intermediate experience with Java, C++, React Native.
 - 📱 Interested in mobile development with React Native and navigation using Stack, Tab, and Drawer.
 - 💡 Hands-on experience with Java and Spring Boot for building APIs.
 - 🐧 Linux user (currently using Linux Mint), focused on optimizing the development environment.

@@ -43,7 +43,7 @@ Actively involved in academic projects focused on practical application and real
 ### 📫 Contact
 
 - 📧 Email: jose2006martins@gmail.com
-- 🌐 GitHub: github.com/joseaugustomf
+- 🌐 GitHub: github.com/JowseDev
 - 📱 LinkedIn: [LinkedIn](https://www.linkedin.com/in/josé-augusto-martins-filho-272506255/)
 
 

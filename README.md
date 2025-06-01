@@ -49,7 +49,7 @@ Actively involved in academic projects focused on practical application and real
 
    [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jowseDev) [![Tik Tok](    https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jowsedev) [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-augusto-martins-filho-272506255/) [![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.j0se/)
 
-#### Feel free to explore my repositories, follow my projects, and reach out to discuss development ideas! Let’s grow together on this journey! 🚀
+#### Feel free to explore my repositories, follow my projects, and reach out to discuss development ideas! Let’s grow together on this journey! 🚀🚀
 
 ##
 

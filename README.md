@@ -26,7 +26,8 @@ The Prlt Investimentos Project is a complete web system that uses APIs to show u
 - Mobile: React Native, Expo
 - Backend: Spring Boot
 - Frontend: HTML, CSS, React
-- Database: MySQLOperating Systems: Linux Mint, Windows
+- Database: MySQLOperating
+- Systems: Linux Mint, Windows
 - Others: Git, GitHub, terminal, UML, MVC architecture
   ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jowseDev&hide_progress=true&theme=dark)
 

@@ -12,14 +12,6 @@ I'm José Augusto Martins Filho, an intermediate-level programmer with 3 years o
 - 🗃️ Knowledge in databases like MySQL and project organization using the MVC architecture.
 - 📚 Developing academic and personal projects to strengthen and expand my skills.
 
-### 📌 Featured Projects
-
-#### Sua Consulta
-A medical appointment scheduling system, with a backend built in Java Spring Boot and a mobile app developed in React Native. Designed to simplify access and schedule organization for patients and professionals.
-
-#### Prlt Investimentos
-The Prlt Investimentos Project is a complete web system that uses APIs to show users real-time stock prices and assist them in calculating interest and making investments.
-
 ### 🛠️ Technologies & Tools
 
 - Languages: Java, C++, JavaScript
